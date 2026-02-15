@@ -22,5 +22,7 @@ int main() {
     //}
 
     //// TODO: вычислите N и S (S <= MAX) и выведите результаты.
+
+    std::cout << "Hello world!";
     return 0;
 }
